@@ -1,0 +1,12 @@
+{
+  "cpu_alert": 82.0,
+  "ram_alert": 91.0,
+  "battery_alert": 15,
+  "temp_alert": 85,
+  "poll_interval": 0.5,
+  "auto_start": true,
+  "enable_gpu": true,
+  "enable_wifi": true,
+  "show_alerts": true,
+  "system_notifications": true
+}
